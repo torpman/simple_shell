@@ -1,20 +1,15 @@
 #include <stdio.h>
 
 /**
-* main - The program entry point
+* add_function - The function add numbers together
 *
-* Return: return 0 on success
+* @a: The first number to add
+* @b: The second number to add
+*
+* Return: return the result
 */
 
-int main(void)
+int add_function(int a, int b)
 {
-    int a, b, sum;
-
-    a = 33;
-    b = 45;
-    sum = a + b;
-
-    printf("The sum of %d and %d is = %d", a, b, sum);
-
-    return (0);
+    return (a + b);
 }
