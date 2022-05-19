@@ -1,6 +1,6 @@
 #include "headers.h"
 /**
- * _getline_command - print "simple_shell$ " and wait for input
+ * getline_command - print "simple_shell$ " and wait for input
  * Return: line of string input for user
  */
 
