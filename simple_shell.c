@@ -1,4 +1,4 @@
-#include "header.h"
+#include "headers.h"
 /**
  * main - main arguments functions
  * @ac:count of argumnents
